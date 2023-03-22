@@ -1,0 +1,33 @@
+ .temp{
+    background-color: rgb(1, 14, 17);
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+ }
+ .t1{
+    font-size: 75px;
+    font-weight: 600;
+    text-align: center;
+    justify-content: center;
+    padding-top: 80px;
+ 
+    color: rgb(234, 236, 238);
+}
+ .temp.button2{
+    padding-right: 50px;
+}
+body{
+   color: aliceblue;
+   display: flex;flex-direction: column;justify-content: center;align-items: center;
+   margin: 0;
+   width: 100vw;
+   height: 100vh; 
+
+}
+#input, button, #div{
+   margin:10px;
+   /* margin-left:60px ; */
+   width:20em;
+   height: 2em;
+}
